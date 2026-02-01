@@ -1,5 +1,5 @@
 ## Hi, I'm Serhii 😅
-I have been passionate about building, designing, and scaling modern web applications for over 3 years. My experience helps streamline development processes, improve product performance, and provide a good user experience.
+I have been passionate about building, designing, and scaling modern web applications for over 3 years
 
 ## Tech Stack
 
